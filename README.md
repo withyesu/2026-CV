@@ -1,6 +1,5 @@
-# 2026-CV
-# Myongho Yi, Ph.D., CISSP
-withyesu@gmail.com | https://www.linkedin.com/in/drjosephlee/
+# Joseph Myongho Yi, Ph.D., CISSP
+josephyi@uw.edu | https://www.linkedin.com/in/drjosephlee/
 
 **A scholar and practitioner advancing the intersection of AI and privacy, with a focus on developing ethical and human-centered AI systems.**
 
